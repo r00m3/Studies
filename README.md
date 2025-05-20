@@ -6,20 +6,21 @@
 
 
 ### [Pneumatic](https://github.com/r00m3/Studies/tree/main/Pneumatic)
+###### _Exercises and experiments using pneumatic/electro-pneumatic components._
 
-![pneumatic_exercise_001](Pneumatic/pneumatic_exercise_001.gif "pneumatic_exercise_001")
-
-<br/>
-
-![pneumatic_exercise_002](Pneumatic/pneumatic_exercise_002.gif "pneumatic_exercise_002")
+![pneumatic_exercise_001.gif](Pneumatic/pneumatic_exercise_001.gif "pneumatic_exercise_001.gif")
 
 <br/>
 
-![pneumatic_exercise_003](Pneumatic/pneumatic_exercise_003.gif "pneumatic_exercise_003")
+![pneumatic_exercise_002.gif](Pneumatic/pneumatic_exercise_002.gif "pneumatic_exercise_002.gif")
 
 <br/>
 
-![pneumatic_exercise_004](Pneumatic/pneumatic_exercise_004.gif "pneumatic_exercise_004")
+![pneumatic_exercise_003.gif](Pneumatic/pneumatic_exercise_003.gif "pneumatic_exercise_003.gif")
+
+<br/>
+
+![pneumatic_exercise_004.gif](Pneumatic/pneumatic_exercise_004.gif "pneumatic_exercise_004.gif")
 
 <br/>
 
@@ -45,3 +46,11 @@
 
 <br/>
 
+
+
+### [RPI_Pico_LCD_Test](https://github.com/r00m3/Studies/tree/main/RPI_Pico_LCD_Test)
+###### _Found LCD screen, followed unofficial documentations to figure out possibilities ._
+
+![rpi_pico_lcd_test.gif](RPI_Pico_LCD_Test/rpi_pico_lcd_test.gif "rpi_pico_lcd_test.gif")
+
+<br/>
