@@ -30,8 +30,18 @@
 
 ![binary_to_decimal_decoder.gif](Binary_to_Decimal_Decoder/binary_to_decimal_decoder.gif "binary_to_decimal_decoder.gif")
 
+<br/>
 
 
 
+### [MMIO](https://github.com/r00m3/Studies/tree/main/MMIO)
+###### _Very basic PoC of Memory Mapped Input Output._
 
+![mmio_poc_with_two_ics.jpg](MMIO/mmio_poc_with_two_ics.jpg "mmio_poc_with_two_ics.jpg")
+
+<br/>
+
+![mmio_poc_with_two_ics.gif](MMIO/mmio_poc_with_two_ics.gif "mmio_poc_with_two_ics.gif")
+
+<br/>
 
